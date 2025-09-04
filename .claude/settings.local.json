@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/C:\\Users\\geeth\\OneDrive\\Desktop\\IAMSAPI_tests\\.github\\workflows/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
